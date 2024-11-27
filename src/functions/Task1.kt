@@ -13,6 +13,7 @@ fun myExponentiation(a: Int, n: Int) {
     if (n == 0) {
         println(result)
     } else if (n < 0) {
+        
         println("Пока умеем возводить только в положительную степень. Ждите новой версии приложения!")
     } else {
         repeat(n) { result *= a }
