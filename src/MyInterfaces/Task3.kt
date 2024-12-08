@@ -12,4 +12,5 @@ fun main() {
     var maxIndex = sortedArray.indexOf(max)
     var max2 = sortedArray.get(maxIndex - 1)
     println("Второе максимальное значение = $max2")
+    array.isEmpty()
 }
