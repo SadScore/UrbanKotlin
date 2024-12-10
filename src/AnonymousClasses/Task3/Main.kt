@@ -1,7 +1,6 @@
 package AnonymousClasses.Task3
 
-import java.sql.SQLOutput
-import kotlin.concurrent.thread
+
 
 /**
  * Написать абстрактный класс Printer со своими свойствами и функциями. В функции main создать несколько объектов Printer.
