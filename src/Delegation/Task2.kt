@@ -1,7 +1,5 @@
 package Delegation
 
-import jdk.incubator.vector.VectorOperators.Binary
-
 /**
  * Написать программу перевода числа из двоичной системы в десятичную систему счисления.
  */
