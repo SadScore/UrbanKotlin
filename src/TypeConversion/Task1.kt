@@ -9,6 +9,6 @@ fun main() {
     val str = "12.3"
     val num: Int = str.toDouble().toInt()
     val doub: Double = str.toDouble()
-    val decimal = str.toDouble().toInt().toString(2)
-    println("$str, $num, $doub, $decimal")
+    val binary = str.toDouble().toInt().toString(2)
+    println("$str, $num, $doub, $binary")
 }
