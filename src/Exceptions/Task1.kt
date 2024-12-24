@@ -61,8 +61,8 @@ class PersonCatalog {
         return list[index]
     }
 
-    fun createList(list: Array<String>) {
-        TODO("Немного не разобрался как реализовать этот метод..( ")
+    fun createList() {
+
     }
 
     fun addPersonScan() { // пришлось костылять метод вместо createList(list: Array<String>) =(
