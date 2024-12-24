@@ -6,11 +6,11 @@ package Extensions
 fun main() {
     val a = 7
 
-    println(a.getSquare())
+    println(a.square())
 
 }
 
-fun Int.getSquare(): Int {
+fun Int.square(): Int {
     return this * this
 
 
